@@ -1,8 +1,5 @@
-# YouTubeClone-NullClass
-
-https://github.com/abcxyz50312/YouTubeClone-NullClass
-
-
-
-https://youtubeclone5031.netlify.app/
+# YouTube Clone 
+Front End Framework : React js, Redux etc.
+Back End Framework : Node js, Express js etc.
+Database used : MongoDB 
 
